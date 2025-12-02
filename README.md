@@ -1,78 +1,63 @@
 # 👋 Hi, I'm **Md. Hasin Sadaf**
 
-I'm an **Electrical & Computer Engineering student at RUET** and a **full-stack developer** passionate about building scalable systems, clean interfaces, and solving complex problems.  
-I love developing full-stack web applications and improving my skills through competitive programming.
+I'm an undergraduate student in **Electrical & Computer Engineering at RUET**.  
+I am **working hard every day to get better**.
+
+What I am truly strong at is **problem solving**.  
+I enjoy thinking deeply, breaking problems down, and finding efficient solutions.  
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Sc. in **Electrical & Computer Engineering** (ECE), RUET  
-- 💻 Passionate about **Full-Stack Development**  
-- 🧠 Strong in **Data Structures & Algorithms**  
-- 🔥 1000+ problems solved across platforms  
-- 🎯 Goal: Become a skilled software engineer capable of building production-level systems  
+## 🚀 What I'm Doing Now
+- Improving my **problem-solving** abilities through consistent practice  
+- Learning **development** and strengthening my fundamentals  
+- Building small projects to gain real understanding  
+- Trying to become a better version of myself every day  
 
 ---
 
-## 🛠️ Skills
+## 🧠 Problem Solving
 
-**Programming:**  
-`C` · `C++` · `Python` · `Java`
-
-**Web Development:**  
-`HTML` · `CSS` · `JavaScript` · `React.js` · `Next.js` · `Node.js` · `Express.js` · `TailwindCSS`
-
-**Databases:**  
-`PostgreSQL` · `MongoDB` · `SQL`
-
-**Tools:**  
-`Git` · `GitHub` · `VS Code` · `Linux`
-
----
-
-## 📌 Featured Projects
-
-### 🔹 **Community Platform (Full-Stack)**
-A complete community platform with user authentication, posting, commenting, and real-time interaction.  
-**Tech:** Next.js, Express.js, PostgreSQL, TailwindCSS  
-🔗 **GitHub:** https://github.com/hasinsadaf/software-dev-project-2
-
----
-
-### 🔹 **Dynamic Portfolio Website**
-A full-stack portfolio with backend API to manage projects, skills, and blogs.  
-**Tech:** React, Node.js, Express, MongoDB  
-🔗 **GitHub:** https://github.com/hasinsadaf
-
----
-
-## 🧩 Competitive Programming
-
-- 💪 **1000+ problems solved**  
-- 🏆 **Codeforces Max Rating: Pupil (1386)**  
-- 📘 NeetCode: **50+ DSA Problems Solved**
+- 💪 **1000+ problems solved** across various platforms  
+- 🏆 **Codeforces Max Rating:** Pupil (1386)  
+- 📘 **NeetCode:** 50+ DSA problems solved  
 
 **Codeforces Profile:**  
 ➡️ https://codeforces.com/profile/hasin_sadaf
 
 ---
 
-## 💡 What I’m Currently Focusing On
-- Improving backend development skills  
-- Building more full-stack projects  
-- Strengthening problem-solving and algorithms  
-- Learning system design basics  
+## 🛠️ Skills I'm Growing
+
+**Programming Languages:**  
+`C` · `C++` · `Python`
+
+**Web Development (Learning):**  
+`HTML` · `CSS` · `JavaScript` · `React` · `Next.js` · `Node.js`
+
+**Databases:**  
+`PostgreSQL` · `SQL` · `MongoDB`
+
+**Tools:**  
+`Git` · `GitHub` · `VS Code` · `Linux`
 
 ---
 
-## 🤝 Let's Connect
+## 📌 Projects I'm Building to Learn
 
-- 🔗 **LinkedIn:** https://linkedin.com/in/md-hasin-sadaf-186a78396  
-- 🧾 **Codeforces:** https://codeforces.com/profile/hasin_sadaf  
-- 💻 **GitHub:** https://github.com/hasinsadaf  
-- 📧 **Email:** hasinsadaf79@gmail.com  
+### 🔹 Community Platform (Learning Project)
+A basic community website with authentication and posting features.  
+**Tech:** Next.js, Express.js, PostgreSQL  
+🔗 https://github.com/hasinsadaf/software-dev-project-2
 
 ---
 
-### ⭐ If you like my work, consider giving a star — it motivates me to build more!
+## 🎯 My Mindset
+I believe consistency is more important than talent.  
+I may not be highly skilled yet — but I am **willing to learn, improve, and work hard**.
 
+---
+
+## 🤝 Connect With Me
+- LinkedIn: https://linkedin.com/in/md-hasin-sadaf-186a78396 
+- Email: **hasinsadaf79@gmail.com**
