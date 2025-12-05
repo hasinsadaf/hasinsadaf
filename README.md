@@ -50,6 +50,13 @@ A basic community website with authentication and posting features.
 **Tech:** Next.js, Express.js, PostgreSQL  
 🔗 https://github.com/hasinsadaf/software-dev-project-2
 
+### 🧩 Form Builder (Full-Stack Project)
+A customizable form-builder tool that allows users to create forms by adding input fields, editing layouts, and managing submissions.  
+Designed to improve understanding of frontend logic, backend APIs, and database storage.
+**Tech:** `React` · `Next.js` · `TailwindCSS`   
+🔗 **GitHub Repo:** https://github.com/hasinsadaf/form_builder
+
+
 ---
 
 ## My Mindset
