@@ -46,7 +46,7 @@ https://codeforces.com/profile/hasin_sadaf
 ## Projects I'm Building to Learn
 
 ### Community Platform (Learning Project)
-A basic community website with authentication and posting features.  
+A basic community website with authentication, posting and comments features.  
 
 **Tech:** `Next.js` · `Express.js` · `PostgreSQL`  
 🔗 https://github.com/hasinsadaf/software-dev-project-2
